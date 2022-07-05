@@ -1,0 +1,12 @@
+Metadata-Version: 1.0
+Name: optimizer
+Version: 0.0.1
+Summary: Optimizer Module for VRPTW
+Home-page: UNKNOWN
+Author: Krishnendu Mukherjee
+Author-email: kmukherjeemech@gmail.com 
+License:  
+Description: VRPTW Model for 25 Customers
+        Version 0.0.1
+Keywords: optimizer
+Platform: UNKNOWN
