@@ -14,11 +14,11 @@ import numpy as np
 from pathlib import Path
 import gc
 import time
-from optimizer.optimizer.parse_data import IOFile
+from vrplib.optimizer.optimizer.parse_data import IOFile
 from mip import *
 import matplotlib.pyplot as plt
-from optimizer.optimizer.route_optimizer import *
-from optimizer.optimizer.utility import distance,plot_data,search_cust,total_distance,route_distance,display_route,\
+from vrplib.optimizer.optimizer.route_optimizer import *
+from vrplib.optimizer.optimizer.utility import distance,plot_data,search_cust,total_distance,route_distance,display_route,\
        postprocessing
 
 
